@@ -1,0 +1,30 @@
+.cooka {
+    font-size: 34px;
+    color: purple;
+    text-align: center;
+}
+
+.photo {
+    display: block;
+    margin-left: 760px;
+    margin-right: auto;
+    width: auto;
+    height: 400px;
+}
+
+.recipe {
+    text-align: center;
+    font-size: 24px;
+}
+
+.recipe.one {
+    color: green;
+}
+
+.recipe.two {
+    color: rgb(220,220,220);
+}
+
+.recipe.three {
+    color: red;
+}
